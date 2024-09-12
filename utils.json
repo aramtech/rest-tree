@@ -1,0 +1,17 @@
+{
+    "name": "rest-tree",
+    "deps": {
+        "rest-log": {
+            "owner": "aramtech",
+            "repo": "rest-log",
+            "update_policy": "major",
+            "version": "0.1.0"
+        }
+    },
+    "private": false,
+    "public_repo": false,
+    "owner": "aramtech",
+    "hash": "yOEiMCrpHDDcdZTaQ1f3CpilujzFvcSOOh4mxURcMT4",
+    "version": "0.2.3",
+    "description": ""
+}
